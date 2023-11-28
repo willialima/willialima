@@ -13,9 +13,9 @@
 
  <div>
   <a href="https://github.com/GhabryelHenrique">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=GhabryelHenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140rem" src="https://github-readme-streak-stats.herokuapp.com/?user=GhabryelHenrique&theme=tokyonight" alt="Ghabryel most used frameworks"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhabryelHenrique&layout=compact&&langs_count=7&theme=tokyonight"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=willialima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140rem" src="https://github-readme-streak-stats.herokuapp.com/?user=willialima&theme=tokyonight" alt="Ghabryel most used frameworks"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willialima&layout=compact&&langs_count=7&theme=tokyonight"/>
 </div>
  
  <div style="display: inline_block"><br>
@@ -45,17 +45,13 @@
   <a href="https://www.instagram.com/ghabryel__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ghabryel-henrique-27298919a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/GhabryelHenrique/GhabryelHenrique/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/willialima/willialima/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
  ## Total Profile Views :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/GhabryelHenrique/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/willialima/count.svg" />
  </p>
 
 </p>
-<!---
-GhabryelHenrique/GhabryelHenrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
