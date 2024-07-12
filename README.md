@@ -9,8 +9,7 @@
 - 👀 I'm interested in programming and technological innovations
 - 🌱 I'm currently learning Python and web programming using the Angular framework
 - 💞️ I'm looking to collaborate in making people's lives simpler with the help of machine learning and IOT
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ghabryel-henrique-27298919a/ and e-mail: ghabryelhenrique@hotmail.com
-
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/willian-oliveira-4377b71ab and e-mail: willian.uchima@gmail.com
  <div>
   <a href="https://github.com/GhabryelHenrique">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=willialima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
